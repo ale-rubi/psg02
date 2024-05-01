@@ -1,9 +1,5 @@
 # Sesión 2
 ## Gitignore y Markdown
-
-
-# Título 1
-## Título 2
 ### Título 3
 
 **Bold Text**
@@ -34,4 +30,5 @@ Enlaces
 [Titulo](https://github.com/ale-rubi/psg02)
 
 Imagenes 
-![Nombre](psg02/Anime Girl with Sakura Trees.jpg)
+![texto](./Anime.jpg)
+
